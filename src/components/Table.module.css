@@ -1,0 +1,23 @@
+.table {
+  /* border: 2px solid black; */
+  font-family:-apple-system, BlinkMacSystemFont,sans-serif
+}
+th {
+  /* border: 2px solid gray; */
+  background-color: teal;
+  color: white;
+  padding: 10px 15px;
+  font-size: 25px;
+  border: none;
+  border-radius: 15px;
+}
+td {
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(243, 147, 238);
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 20px;
+  padding: 5px 10px;
+  text-align: center;
+}

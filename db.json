@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "shubham",
+      "age": "23",
+      "address": "mhow",
+      "department": "react",
+      "salary": 200000,
+      "married": false
+    },
+    {
+      "name": "sixty nine",
+      "address": "las vegas",
+      "department": "new Alice",
+      "age": "96",
+      "salary": "240000",
+      "married": true,
+      "id": 2
+    },
+    {
+      "name": "Charter",
+      "address": "Vegas",
+      "department": "trishila terrace",
+      "age": "21",
+      "salary": "155623",
+      "id": 3
+    }
+  ]
+}
